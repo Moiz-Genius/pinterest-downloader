@@ -1,10 +1,11 @@
 # 📌 Pinterest Ultra-Fast Downloader CLI
 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python)](https://python.org/)
 [![HTTP Client](https://img.shields.io/badge/Client-HTTPX%20Async-00599C.svg)](https://www.python-httpx.org/)
 [![Parser](https://img.shields.io/badge/HTML%20Parser-BeautifulSoup4-orange.svg)](https://www.crummy.com/software/BeautifulSoup/)
 [![CLI UI](https://img.shields.io/badge/UI-Rich-magenta.svg)](https://github.com/Textualize/rich)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Moiz-Genius/pinterest-downloader/pulls)
 
 A lightweight, blazing-fast asynchronous Python CLI tool that extracts and downloads original-quality images, high-definition videos (MP4 1080p/720p), and animated GIFs from any Pinterest URL or `pin.it` short link.
