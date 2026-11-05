@@ -1,0 +1,23 @@
+# Saved media downloads
+downloads/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.gif
+*.webp
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
